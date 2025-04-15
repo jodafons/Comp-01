@@ -1,3 +1,4 @@
+
 # 01 Criação da Virtual Environ:
 
 Um Python Virtual Environment, também conhecido como `vitualenv`, é uma ferramenta essencial para desenvolvedores Python que desejam gerenciar dependências de projetos de forma eficiente e isolada. Com o `virtualenv`, você pode criar ambientes virtuais isolados para cada projeto, garantindo que as dependências específicas de cada projeto não interfiram umas nas outras.
@@ -13,18 +14,18 @@ Um Python Virtual Environment, também conhecido como `vitualenv`, é uma ferram
 1. *Atualize o índice de pacotes*: Execute o comando `sudo apt update`.
 2. *Instale o Virtualenv*: Execute o comando `sudo apt install -y python3-virtualenv`.
 
-### Verificando a instalação
-1. *Verifique a versão*: Execute o comando `virtualenv --version` para verificar se a instalação foi bem-sucedida.
+>. *Verifique a versão*: Execute o comando `virtualenv --version` para verificar se a instalação foi bem-sucedida.
 
 Agora que você tem o Virtualenv instalado, pode criar ambientes virtuais para seus projetos Python e gerenciar dependências de forma eficiente.
 
 
-## Como criar um virtualenv?
+## Como criar um Virtualenv?
 
 1. *Abra o terminal*: Navegue até o diretório do seu projeto.
-2. *Crie o vitualenv*: Execute o comando `python -m venv nome_do_ambiente` (substitua "nome_do_ambiente" pelo nome desejado).
-3. *Ative o venv*: Execute o comando `nome_do_ambiente\Scripts\activate` (no Windows) ou `source nome_do_ambiente/bin/activate` (no Linux/Mac).
-4. *Instale dependências*: Use o comando `pip install` para instalar as dependências necessárias para o seu projeto.
+2. *Crie o vitualenv*: Execute o comando `virtualenv -p python nome_do_ambiente` (substitua "nome_do_ambiente" pelo nome desejado).
+3. *Ative o venv*: Execute o comando `source nome_do_ambiente/bin/activate` (no Linux/Mac).
+4. *Requerimentos de projeto*: Coloque todos os pacotes utilizados em seu projeto dentro do arquivo `requirements.txt`
+5. *Instale dependências*: Use o comando `pip install -r requirements.txt` para instalar as dependências necessárias para o seu projeto.
 
 
 ## *Criando um Virtualenv com Jupyter Notebook Instalado*
