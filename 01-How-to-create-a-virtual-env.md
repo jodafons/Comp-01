@@ -1,6 +1,16 @@
 
 # 01 Criação da Virtual Environ:
 
+## Sumário
+
+term
+: Instalando o Virtualenv no Linux (Ubuntu/Debian) 
+
+
+> [!WARNING]
+> ssss
+
+
 Um Python Virtual Environment, também conhecido como `vitualenv`, é uma ferramenta essencial para desenvolvedores Python que desejam gerenciar dependências de projetos de forma eficiente e isolada. Com o `virtualenv`, você pode criar ambientes virtuais isolados para cada projeto, garantindo que as dependências específicas de cada projeto não interfiram umas nas outras.
 
 Além disso, essa estratégia de desenvolvimento garante:
