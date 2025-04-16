@@ -2,11 +2,11 @@
 # Aula 101: Desenvolvimento em Python Além do Script!
 
 
-# Table of Contents
+# Sumário
 1. [Introdução ao VSCode](#vscode)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#extras)
+2. [Python Virtual Enviroment](#example2)
+3. [Gerenciamento de pacodes via pip](#third-example)
+4. [Extras](#extras)
 
 
 
