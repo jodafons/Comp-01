@@ -1,4 +1,33 @@
 
+# Aula 101: Desenvolvimento em Python Além do Script!
+
+
+# 1) Ambiente de Desenvolvimento Integrado (recomendado):
+
+Muito além do `vim`, existe outras ferramentas, ou IDEs, capazes de tornar a vida do programador mais linda e bela! Para isso, podemos utilizar o `VS Code`.
+
+*O que é o VS Code?* 
+
+O Visual Studio Code (`VS Code`) é um editor de código-fonte leve e flexível desenvolvido pela Microsoft. É uma ferramenta popular entre desenvolvedores devido à sua capacidade de personalização e extensão.
+
+## 1.1) Principais recursos do VS Code
+- *Suporte a várias linguagens*: O VS Code suporta uma ampla variedade de linguagens de programação, incluindo Python, JavaScript, TypeScript, C++ e muitas outras.
+- *Depuração*: O VS Code oferece recursos de depuração avançados, permitindo que você identifique e corrija erros em seu código.
+- *Extensões*: O VS Code tem uma vasta biblioteca de extensões que podem ser instaladas para adicionar funcionalidades específicas, como suporte a linguagens adicionais, ferramentas de produtividade e integração com serviços de nuvem.
+- *Integração com Git*: O VS Code oferece integração com o Git, permitindo que você gerencie seu código-fonte e colabore com outros desenvolvedores.
+
+## 1.2) Aplicações do VS Code
+- *Desenvolvimento web*: O VS Code é uma ferramenta popular para desenvolvimento web, graças ao seu suporte a linguagens como JavaScript, TypeScript e HTML/CSS.
+- *Desenvolvimento de aplicativos*: O VS Code pode ser usado para desenvolver aplicativos em várias linguagens, incluindo Python, Java e C++.
+- *Edição de código*: O VS Code é uma ferramenta útil para edição de código em geral, graças à sua capacidade de personalização e extensão.
+
+> [!IMPORTANT]
+> Utilize este [guia de instalação](https://code.visualstudio.com) para instalar o `VS Code` no MacOS, Linux ou Windows.
+>
+
+
+
+
 # 1) Criação da Virtual Environ:
 
 Um Python Virtual Environment, também conhecido como `vitualenv`, é uma ferramenta essencial para desenvolvedores Python que desejam gerenciar dependências de projetos de forma eficiente e isolada. Com o `virtualenv`, você pode criar ambientes virtuais isolados para cada projeto, garantindo que as dependências específicas de cada projeto não interfiram umas nas outras.
@@ -129,6 +158,7 @@ Agora você tem um virtualenv com Jupyter Notebook instalado e pronto para uso. 
 # 4) Outras soluções em Notebooks!
 
 ## 4.1) Google Colab:
+
 *O que é o Google Colab?* O Google Colab é uma plataforma de desenvolvimento de código aberto baseada em Jupyter Notebook que permite criar e executar notebooks em um ambiente de nuvem. 
 
 ### 4.1.1 Principais recursos do Google Colab
