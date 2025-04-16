@@ -125,3 +125,23 @@ Agora você tem um virtualenv com Jupyter Notebook instalado e pronto para uso. 
 > jupyter-lab --NotebookApp.token=''
 > ```
 >
+
+# 4) Outras soluções em Notebooks!
+
+## 4.1) Google Colab:
+*O que é o Google Colab?* O Google Colab é uma plataforma de desenvolvimento de código aberto baseada em Jupyter Notebook que permite criar e executar notebooks em um ambiente de nuvem. 
+
+### 4.1.1 Principais recursos do Google Colab
+- *Execução em nuvem*: O Google Colab executa seus notebooks em servidores remotos, eliminando a necessidade de configuração de ambiente local.
+- *Acesso a GPUs*: O Google Colab oferece acesso a unidades de processamento gráfico (GPUs) gratuitas, o que é ideal para tarefas de aprendizado de máquina e processamento de dados intensivo.
+- *Integração com o Google Drive*: Você pode facilmente integrar seus notebooks com o Google Drive para armazenamento e compartilhamento de dados.
+- *Colaboração*: O Google Colab permite que você compartilhe seus notebooks com outros usuários e trabalhe em equipe.
+
+
+### 4.1.2 Aplicações do Google Colab
+- *Aprendizado de máquina*: O Google Colab é ideal para tarefas de aprendizado de máquina, como treinamento de modelos e processamento de dados.
+- *Análise de dados*: Você pode usar o Google Colab para explorar e visualizar dados.
+- *Educação*: O Google Colab é uma ferramenta útil para educadores e estudantes que desejam aprender sobre ciência de dados e programação.
+
+## 4.2) Cocalc
+
